@@ -131,8 +131,6 @@
       "jest-watch-typeahead/testname"
     ]
   },
-llll
-
   "babel": {
     "presets": [
       "react-app"
